@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="./appIcon.png" style="border-radius: 20%;" height="100" alt="game icon"/>
+  <img src="./icon-v1.png" style="border-radius: 20%;" height="150" alt="game icon"/>
 </p>
 
 <h1 align="center">
